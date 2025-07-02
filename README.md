@@ -4,9 +4,25 @@ This repository contains scraped and processed content from the **NASM Certified
 
 ## ⚠️ Known Issues
 
+### Content Issues
 - **Missing Content**: 1 empty lesson (`section-4/chapter-11/lesson-3/`)
 - **Figure References**: Some inline references may need manual review
 - **Complex Tables**: Very complex tables may need formatting adjustments
+
+### System Requirements
+- **Disk Space**: Script may fail with `ENOSPC: no space left on device` error if insufficient storage available (requires ~200MB+ free space for complete scrape)
+
+### Performance & Code Quality Issues
+- **DOM Element Staleness**: Frequent re-querying of DOM elements due to navigation, causing performance overhead
+- **Fixed Delays**: Uses `delay(3000)` instead of intelligent waiting for content readiness, slowing execution
+- **Sequential Processing**: Lessons processed one-by-one instead of parallel batching where possible
+- **Accordion Re-expansion**: Must re-expand chapters for each lesson due to platform's accordion behavior
+- **Hard-coded Selectors**: CSS selectors scattered throughout code without centralization, making maintenance difficult
+- **Large Monolithic Functions**: Functions like `convertContentToMarkdown` handle multiple responsibilities
+- **Memory Inefficiency**: Large HTML strings held in memory during processing instead of streaming
+- **No Configuration Management**: Timeouts, selectors, and delays hard-coded rather than configurable
+- **Limited Error Recovery**: Basic retry logic only for page navigation, not for content extraction failures
+- **No Unit Testing**: Difficult to test individual components due to tight coupling with Playwright
 
 
 ## Content Summary
