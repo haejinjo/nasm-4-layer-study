@@ -1,0 +1,22 @@
+---
+section_number: 5
+section_title: Exercise Technique and Training Instruction
+chapter: 16
+chapter_title: Core Training Concepts
+lesson_number: 2
+lesson_title: Importance of Properly Training the Core Muscles
+weight: 24%
+objectives:
+  - Instructing and demonstrating proper exercise techniques.
+---
+
+## Content
+Core muscle strengthening programs have been linked to improved speed and kicking performance (Lago-Fuentes et al., 2018; Prieske et al., 2016), as well as dynamic balance and jumping distance (Granacher et al., 2014; Shinkle et al., 2012). Core muscle endurance is also critical to lower extremity muscle performance (Kocahan & Akınoğlu, 2018). Previous research has demonstrated that core muscle fatigue can result in altered cycling biomechanics (Abt et al., 2007). Similarly, fatiguing the core musculature results in decreased shoulder strength (Rosemeyer et al., 2015), suggesting that core endurance is critical for upper extremity muscle performance. Preparatory trunk movements occur prior to moving the upper limb extremity, suggesting proper trunk stability is needed to maximize upper extremity performance (Hodges et al., 2000; Morris et al., 2013). Additionally, improving core strength results in increased shoulder strength (Kuhn et al., 2018). Athletes who participate in throwing activities strengthened gluteal function, which is connected to better pelvis and torso biomechanics (Oliver & Keeley, 2010; Plummer & Oliver, 2014), and sling-based core training, which involves suspension of the limbs using unstable sling or cord systems, results in improved throwing velocity (Saeterbakken et al., 2011). Core training improved 50-meter swimming sprint times (Weston et al., 2015), suggesting core training can translate to improved performance in nonweight-bearing activities that engage both upper and lower extremity function.
+
+### INJURY RESISTANCE
+
+Core muscle function is critical for proper extremity movements. Therefore, optimal core muscle function has been considered a factor that may modify injury risk. A prospective cohort study demonstrated that lower postural control, hip muscle strength, and core muscle endurance were predictive of individuals who developed overuse musculoskeletal injuries over a 1.5-year period (De Blaiser et al., 2019). Core muscle training has been found to improve balance (Aggarwal et al., 2010), and a meta-analysis concluded that core strength training was an important factor in fall prevention (Granacher et al., 2013). Core stability has become a key component of prevention programs aimed at decreasing acute lower extremity injuries, such as anterior cruciate ligament tears (Hewett et al., 2005). The ability to properly stabilize the trunk during jump landing is critical to achieving optimal landing mechanics that may decrease the risk of knee injury (Foss et al., 2018; Hewett et al., 2017). In a randomized controlled trial, 4 weeks of core stability training produces similar decreases in forces at the knee during jump landing in female high school athletes to individuals who participated in 4 weeks of plyometric training (Pfile et al., 2013).
+
+### REHABILITATION
+
+LBP is one of the leading causes of global disability, and core muscle training is commonly used to rehabilitate patients with LBP (Vos et al., 2012). Researchers have found that individuals with chronic LBP have decreased activation of certain muscles or muscle groups, including the transverse abdominis, internal obliques, pelvic floor muscles, multifidus, diaphragm, gluteal complex, and deep erector spinae (Arab et al., 2010; Calvo-Lobo et al., 2019; Hodges & Danneels, 2019; Rose-Dulcina et al., 2019; Santos et al., 2013; Sjödahl et al., 2009). A meta-analysis evaluating more than 2,400 individuals demonstrated that core exercise is effective in improving outcomes in those with LBP (Saragiotto et al., 2016). Core stabilization exercises restore the size, activation, and endurance of the multifidus (deep spine muscle) in individuals with LBP (Hides et al., 2001). The addition of core stability exercises to traditional rehabilitation for people with LBP demonstrates improvements in pain compared to traditional rehabilitation (Akhtar et al., 2017).

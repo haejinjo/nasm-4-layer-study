@@ -1,0 +1,44 @@
+---
+description: 
+globs: 
+alwaysApply: true
+---
+NASM Page Architecture Pattern - Cursor Rule
+
+Primary Pattern (Most Common):
+```
+.row.page-wrapper
+├── .col.content.main (always present - main content)
+└── .col-md-4.content.side.right (optional - sidebar)
+```
+
+Extraction Rule:
+- Main Content: Extract from .col.content.main.col-md-8 (left column)
+- Key Terms: Extract from .col-md-4.content.side.right .content-accordion.keyterm (right sidebar)
+- Context: Both columns are siblings under the same page wrapper, not nested
+
+If a page has this column structure there are key terms to extract form the right sidebar.
+
+Robust Extraction Strategy:
+```
+// Always target main content column (required)
+const mainContent = await page.$('.col.content.main');
+
+// Optionally find sidebar if it exists (defensive)
+const sidebar = await page.$('.content.side.right');
+const keyTerms = sidebar ? await sidebar.$$('.content-accordion.keyterm') : [];
+```
+
+Implementation Pattern:
+```
+// Get page container first
+const pageContainer = await page.$('.row.page-wrapper');
+
+// Extract main content from left column
+const mainContent = await pageContainer.$('.col.content.main.col-md-8');
+
+// Extract key terms from right sidebar column  
+const keyTerms = await pageContainer.$$('.col-md-4.content.side.right .content-accordion.keyterm');
+```
+
+Key Insight: Main content and key terms are separate DOM branches that require independent extraction strategies from their respective columns.

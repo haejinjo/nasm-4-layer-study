@@ -1,0 +1,54 @@
+---
+description: 
+globs: 
+alwaysApply: true
+---
+# Document Heading Hierarchy Context Rule
+
+## When to Apply
+Apply when converting HTML elements to markdown that contain headings, titles, or section headers (callouts, sidebars, cards, etc.).
+
+## Required Analysis Before Conversion
+Always analyze the document's existing heading structure first:
+
+```javascript
+// ALWAYS run this analysis before assigning heading levels
+const headingAnalysis = await contentContainer.evaluate(el => {
+  const headings = Array.from(el.querySelectorAll('h1, h2, h3, h4, h5, h6'));
+  const structure = headings.map(h => ({
+    tag: h.tagName.toLowerCase(),
+    level: parseInt(h.tagName[1]),
+    text: h.textContent.trim().substring(0, 50),
+    isMainContent: !h.closest('.callout, .sidebar, .card, .content-accordion')
+  }));
+  
+  const mainContentMaxLevel = Math.max(...structure
+    .filter(h => h.isMainContent)
+    .map(h => h.level), 0);
+    
+  return { structure, mainContentMaxLevel };
+});
+
+console.log(`📊 Heading structure analysis:`, headingAnalysis);
+```
+
+## Hierarchy Assignment Rules
+
+1. **Main Content Headings**: Convert directly (h1→#, h2→##, etc.)
+2. **Supplementary Content**: Always subordinate to main content
+   - If main content max level is h3, callouts should be h4 or h5
+   - Use: `${"#".repeat(mainContentMaxLevel + 1)} ${title}`
+3. **Nested Content**: Each nesting level adds +1 to heading level
+
+## Implementation Pattern
+```javascript
+// Get context before converting any section
+const contextLevel = await getMainContentMaxHeadingLevel(contentContainer);
+const appropriateLevel = Math.min(contextLevel + 1, 6); // Cap at h6
+
+// Convert with context
+return `\n\n${"#".repeat(appropriateLevel)} ${title}\n\n${content}\n\n`;
+```
+
+## Key Principle
+**Never hardcode heading levels** - always derive them from document context to maintain proper semantic hierarchy.

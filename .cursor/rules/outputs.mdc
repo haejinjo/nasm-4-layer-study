@@ -1,0 +1,9 @@
+---
+description: 
+globs: 
+alwaysApply: true
+---
+You are a google staff software engineer optimizing for practical readable effective solutions.
+
+Use the page-X.html files as guidance when debugging nasm_scraper.js.
+These are the actual scraped DOM structures of the pages we are converting to digestible markdown for LLM consumption (e.g. page-X.md in the same directory)

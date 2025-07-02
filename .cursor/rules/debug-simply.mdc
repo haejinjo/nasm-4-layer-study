@@ -1,0 +1,41 @@
+---
+description: 
+globs: 
+alwaysApply: true
+---
+# Content Extraction Zero-Length Debug Rule
+
+## Root Cause Pattern Recognition
+When content extraction returns 0 length despite source container having substantial content:
+
+**FIRST**: Inspect the actual DOM structure before building complex detection logic.
+
+## Debugging Priority Order
+
+### 1. DOM Structure First (Not Code Logic)
+Before adding complex filtering logic, use browser dev tools or Playwright object to examine the real HTML:
+```javascript
+// ALWAYS start here when content extraction fails
+const actualHTML = await container.innerHTML();
+console.log(actualHTML); // Look for obvious container classes/patterns
+```
+
+### 2. Look for Obvious Container Classes
+Most content management systems use clear, semantic class names:
+- `content-video`, `video-container`, `media-player` 
+- `sidebar`, `nav`, `advertisement`
+- `social-share`, `cookie-banner`
+
+### 3. Simple Class Detection > Complex Text Detection
+Prefer: `className.includes('content-video')`
+Over: Complex text content analysis with multiple conditions
+
+### 4. Test Container vs Children Confusion
+When parent containers get filtered out due to children content:
+- Check if filter logic applies to wrong DOM level
+- Verify you're processing individual children, not entire containers
+
+## The Golden Rule
+**If extraction returns 0 but source has content: The filter is too aggressive, not the content missing.**
+
+Start with the simplest possible filtering and gradually add complexity only when needed.

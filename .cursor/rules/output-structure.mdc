@@ -1,0 +1,69 @@
+---
+description: 
+globs: 
+alwaysApply: true
+---
+# NASM Content Output Structure Rule
+
+## Required Directory Hierarchy
+
+nasm-dump/
+├── section-{N}/
+│ ├── chapter-{N}/
+│ │ ├── lesson-{N}/
+│ │ │ ├── page-1.md
+│ │ │ ├── page-2.md
+│ │ │ ├── page-N.md
+│ │ │ ├── page-1.html
+│ │ │ ├── page-2.html
+│ │ │ └── page-N.html
+│ │ └── lesson-{N+1}/
+│ │ └── ...
+│ └── chapter-{N+1}/
+│ └── ...
+└── section-{N+1}/
+└── ...
+
+
+
+## Required Markdown Structure
+Each `page-N.md` must contain:
+
+```yaml
+---
+section_number: 1
+section_title: "Professional Development and Responsibility"
+chapter: 1
+chapter_title: "The Modern State of Health and Fitness"
+lesson_number: 1
+lesson_title: "Welcome to NASM"
+weight: 10%
+objectives:
+  - "Adhering to professional standards and business development practices."
+---
+
+## Content
+[Main lesson content converted to markdown]
+
+## Key Terms
+**Term Name**
+Definition text
+
+## Images
+**FIGURE 1-1: Caption**
+Alt: Description
+URL: https://...
+```
+
+## Folder Creation Pattern
+Always use: `nasm-dump/section-${sectionId}/chapter-${chapterNum}/lesson-${lessonNumber}/`
+
+## Content Processing Rules
+- Process ALL non-hidden lesson buttons (skip `hidden=""` attribute)
+- Skip only actual quizzes/tests: `/quiz|test|review|practice|knowledge check/i`
+- Include "Summary" lessons (these are content, not tests)
+- Each lesson gets separate folder regardless of page count
+- Both .md and .html files saved for each page
+
+## Key Principle
+**One lesson = One folder** with all its pages inside, maintaining clear hierarchical navigation structure.
