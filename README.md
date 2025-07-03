@@ -90,15 +90,17 @@ Production-ready files optimized for study applications:
 
 ```
 final-outputs/
-├── glossary.md                          # Complete exam-weighted glossary (729 terms)
-├── cpt7_exam_study_guide.pdf            # Official NASM exam study guide
+├── glossary.md                          # 729 exam-weighted glossary terms (sorted by priority)
+├── table_of_contents.md                 # Official table of contents annotated with exam weights
+├── cpt7_exam_study_guide.pdf            # Complete official study guide (all sections combined)
 ├── section_1_study_guide.pdf            # Professional Development (10% weight)
 ├── section_2_study_guide.pdf            # Client Relations & Coaching (15% weight)
 ├── section_3_study_guide.pdf            # Basic Sciences & Nutrition (15% weight)  
 ├── section_4_study_guide.pdf            # Assessment (16% weight)
-├── section_5_study_guide.pdf            # Exercise Technique (24% weight)
-├── section_6_study_guide.pdf            # Program Design (20% weight)
-└── nasm-course-lessons/                 # Additional lesson content
+├── section_5_study_guide.pdf            # Exercise Technique (24% weight) - EXAM FOCUS
+├── section_6_study_guide.pdf            # Program Design (20% weight) - HIGH PRIORITY
+├── cpt_mission_statement_from_foreword.md # NASM's mission and philosophy
+└── nasm-course-lessons/                 # Supplementary lesson materials
 ```
 
 #### Glossary Features

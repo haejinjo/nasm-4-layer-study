@@ -4,7 +4,7 @@
 As a professional personal trainer, my mission is as follows:
 - I help people live healthier, more empowered lives. 
 - I optimize human potential and performance.
-- Each client is unique in their health and fitness goals. I can train any person toward any goal.
+- Each client is unique in their health and fitness goals. I can train any client toward any goal.
 
 I commit to learning and applying the latest evidence-based strategies, skills, and training techniques to guide my clients toward their goals safely, with integrity, and with lasting impact.
 
