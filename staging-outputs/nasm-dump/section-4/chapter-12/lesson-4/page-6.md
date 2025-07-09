@@ -29,7 +29,7 @@ Certified Personal Trainers should not perform this assessment for clients with 
 
 ## Pro Shuttle Assessment
 
-The **pro shuttle (5-10-5) assessment** is designed to assess acceleration, deceleration, agility, and control (**Figure 12-27**). This test is considered an advanced assessment for speed and performance-specific goals and, as such, may not be suitable for all clients. Generally speaking, Certified Personal Trainers should not perform this assessment for clients with general fitness or weight-loss goals. This test is most appropriate for clients with athletic goals seeking to assess agility and sprinting speed. A proper warm-up is encouraged before beginning any maximal performance testing.
+The **pro shuttle (5-10-5) assessment** is designed to assess acceleration, deceleration, agility, and control (**Figure 12-2: 7**). This test is considered an advanced assessment for speed and performance-specific goals and, as such, may not be suitable for all clients. Generally speaking, Certified Personal Trainers should not perform this assessment for clients with general fitness or weight-loss goals. This test is most appropriate for clients with athletic goals seeking to assess agility and sprinting speed. A proper warm-up is encouraged before beginning any maximal performance testing.
 
 **Pro Shuttle Assessment Position**
 

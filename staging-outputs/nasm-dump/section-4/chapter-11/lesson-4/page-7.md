@@ -13,9 +13,9 @@ objectives:
 ## Content
 ## Skinfold Measurements
 
-**Skinfold measurements** continue to remain a popular method for determining body composition, although significant skill is required in locating the skinfold sites and accurately measuring fat folds using calipers. This takes practice, and it is recommended that fitness professionals learn from a trained professional before using these techniques. **Table 11-6** provides descriptions of the different locations used by various skinfold measurement protocols.
+**Skinfold measurements** continue to remain a popular method for determining body composition, although significant skill is required in locating the skinfold sites and accurately measuring fat folds using calipers. This takes practice, and it is recommended that fitness professionals learn from a trained professional before using these techniques. **Table 11: -6** provides descriptions of the different locations used by various skinfold measurement protocols.
 
-**TABLE 11-6 Standardized Skinfold Sites of Measurement**
+**TABLE 11-6: Standardized Skinfold Sites of Measurement**
 
 | Triceps: A vertical fold on the back of the arm, halfway between the shoulder and elbow.
 	Biceps: A vertical fold on the anterior aspect over the belly of the biceps brachii muscle, 1 cm higher than the level of the triceps measurement.

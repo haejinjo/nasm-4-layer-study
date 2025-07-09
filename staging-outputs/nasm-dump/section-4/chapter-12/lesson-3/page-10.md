@@ -11,9 +11,9 @@ objectives:
 ---
 
 ## Content
-When performing the assessment, record all findings (**Table 12-8**) and then refer to **Table 12-9** to determine potential causes of these movement impairments.
+When performing the assessment, record all findings (**Table 12: -8**) and then refer to **Table 12: -9** to determine potential causes of these movement impairments.
 
-**TABLE 12-8 Pushing Assessment Observational Findings**
+**TABLE 12-8: Pushing Assessment Observational Findings**
 
 | Kinetic Chain Checkpoint | Movement Impairment | Yes or No |
 |---|---|---|
@@ -21,7 +21,7 @@ When performing the assessment, record all findings (**Table 12-8**) and then re
 | Shoulders | ❑ Shoulders elevate | ❑ Yes ❑ No |
 | Head/Neck | ❑ Head juts forward | ❑ Yes ❑ No |
 
-**TABLE 12-9 Pushing Assessment Solutions Chart**
+**TABLE 12-9: Pushing Assessment Solutions Chart**
 
 | Joint | Viewpoint | Movement Impairment | Possible Muscle Imbalances | Visual Cues |
 |---|---|---|---|---|

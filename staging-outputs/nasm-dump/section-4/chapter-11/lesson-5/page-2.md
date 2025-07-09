@@ -27,7 +27,7 @@ Conducting a V~O2max~ assessment provides the fitness professional with an indic
 
 A subjective rating of perceived exertion (RPE) is a technique used to express or validate how hard a client feels that they are working during exercise. When using the RPE method, a person is subjectively rating the perceived difficulty of exercise. It is based on overall physical sensations experienced by a person during physical activity, which would include increased heart rate, increased respiration rate, increased sweating, and muscle fatigue. The client’s subjective rating should be reported based on the overall feelings of how hard they are working, including an overall sense of fatigue rather than isolated areas of the body (i.e., tired legs during treadmill testing). Although the RPE scale is a subjective measure, if clients report their exertion ratings accurately, RPE does provide a good estimate of the actual heart rate during physical activity. There are two versions of RPE: the original 6 to 20 scale, and the newer 1 to 10 scale (**Tables 11-11** and **11-12**). For simplicity and ease of use, NASM recommends the 1 to 10 scale.
 
-**TABLE 11-11  RPE Scale, 6–20**
+**TABLE 11-11: RPE Scale, 6–20**
 
 | Original Scale |
 |---|
@@ -47,7 +47,7 @@ A subjective rating of perceived exertion (RPE) is a technique used to express o
 | 19 | Very, very hard |
 | 20 |  |
 
-**TABLE 11-12  RPE Scale, 1–10**
+**TABLE 11-12: RPE Scale, 1–10**
 
 | Rating | Perceived Exertion Level |
 |---|---|

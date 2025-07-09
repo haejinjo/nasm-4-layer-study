@@ -11,9 +11,9 @@ objectives:
 ---
 
 ## Content
-Men with a waist circumference greater than or equal to 100 cm (~40 in.) are at higher risk for developing health issues, such as cardiovascular disease or diabetes, while women with a waist circumference greater than or equal to 88 cm (~35 in.) are at higher risk for developing health issues like diabetes and cardiovascular disease (Després, 2012; Howard, 2006; Kawada, 2015). **Table 11-3** illustrates health risks from various waist circumference measurements. It is important for fitness professionals to monitor each client’s waist circumference to identify health risks and track weight loss efforts. However, some clients may feel apprehensive and do not wish to have their waist measured. In these instances, fitness professionals are advised to teach their clients how to measure their own waistlines and report their findings back to the professional.
+Men with a waist circumference greater than or equal to 100 cm (~40 in.) are at higher risk for developing health issues, such as cardiovascular disease or diabetes, while women with a waist circumference greater than or equal to 88 cm (~35 in.) are at higher risk for developing health issues like diabetes and cardiovascular disease (Després, 2012; Howard, 2006; Kawada, 2015). **Table 11: -3** illustrates health risks from various waist circumference measurements. It is important for fitness professionals to monitor each client’s waist circumference to identify health risks and track weight loss efforts. However, some clients may feel apprehensive and do not wish to have their waist measured. In these instances, fitness professionals are advised to teach their clients how to measure their own waistlines and report their findings back to the professional.
 
-**TABLE 11-3 Health Risks from Waist Circumference Measurements**
+**TABLE 11-3: Health Risks from Waist Circumference Measurements**
 
 | Risk Category | Women | Men |
 |---|---|---|
@@ -30,9 +30,9 @@ The **waist-to-hip ratio (WHR)** is another commonly used set of circumference m
 
 WHR = Waist Measurement ÷ Hip Measurement
 
-For the WHR, there are standard scores for men and for women, as shown in **Table 11-4** (Huxley et al., 2010). A high WHR has significant health implications because individuals who are more apple-shaped and carry more fat in the abdominal region are at greater risk for developing cardiovascular and metabolic diseases, such as diabetes.
+For the WHR, there are standard scores for men and for women, as shown in **Table 11: -4** (Huxley et al., 2010). A high WHR has significant health implications because individuals who are more apple-shaped and carry more fat in the abdominal region are at greater risk for developing cardiovascular and metabolic diseases, such as diabetes.
 
-**TABLE 11-4 WHR Classifications**
+**TABLE 11-4: WHR Classifications**
 
 | Health Risk | Men | Women |
 |---|---|---|

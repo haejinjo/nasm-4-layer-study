@@ -29,7 +29,7 @@ For more fit population groups, the **1.5-mile (2.4 km) run test** is a cardiore
 
 	- Use **Tables 11-15** and **11-16** to determine the results of the test.
 
-**TABLE 11-15 Normative Values for the 1.5 Mile Run (Men)**
+**TABLE 11-15: Normative Values for the 1.5 Mile Run (Men)**
 
 | Rating | Time to Complete 1.5 Mile Run Rating |
 |---|---|
@@ -43,7 +43,7 @@ For more fit population groups, the **1.5-mile (2.4 km) run test** is a cardiore
 
 ^Data from The Cooper Institute (2007).* Physical fitness assessments and norms for adults and law enforcement.* Dallas, TX.^
 
-**TABLE 11-16 Normative Values for the 1.5 Mile Run (Women)**
+**TABLE 11-16: Normative Values for the 1.5 Mile Run (Women)**
 
 | Rating | Time to Complete 1.5 Mile Run Rating |
 |---|---|

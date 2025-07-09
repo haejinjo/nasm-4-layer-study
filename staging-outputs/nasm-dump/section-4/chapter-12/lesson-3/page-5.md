@@ -11,7 +11,7 @@ objectives:
 ---
 
 ## Content
-**TABLE 12-5 OHSA Solutions Chart**
+**TABLE 12-5: OHSA Solutions Chart**
 
 | Joint | Viewpoint | Movement Impairment | Possible Muscle Imbalances | Visual Cues |
 |---|---|---|---|---|

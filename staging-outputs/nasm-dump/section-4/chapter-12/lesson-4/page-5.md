@@ -13,7 +13,7 @@ objectives:
 ## Content
 ## Lower Extremity Functional Test
 
-The** lower extremity functional test (LEFT)** is designed to test lateral speed and agility (**Figure 12-25**). The LEFT is considered an advanced assessment for speed and performance-specific goals and, as such, may not be suitable for all clients. Generally speaking, Certified Personal Trainers should not perform this assessment for clients with general fitness or weight-loss goals. This test is most appropriate for clients with athletic goals and seeking to assess speed and agility. A proper warm-up is encouraged before beginning any maximal performance testing.
+The** lower extremity functional test (LEFT)** is designed to test lateral speed and agility (**Figure 12-2: 5**). The LEFT is considered an advanced assessment for speed and performance-specific goals and, as such, may not be suitable for all clients. Generally speaking, Certified Personal Trainers should not perform this assessment for clients with general fitness or weight-loss goals. This test is most appropriate for clients with athletic goals and seeking to assess speed and agility. A proper warm-up is encouraged before beginning any maximal performance testing.
 
 **LEFT Position**
 
@@ -45,7 +45,7 @@ The** lower extremity functional test (LEFT)** is designed to test lateral speed
 
 ## 40-Yard Dash Assessment
 
-The **40-yard dash assessment** is designed to test reaction capabilities, acceleration, and maximal sprinting speed (**Figure 12-26**). The 40-yard dash assessment is considered an advanced assessment for speed and performance-specific goals and, as such, may not be suitable for all clients.
+The **40-yard dash assessment** is designed to test reaction capabilities, acceleration, and maximal sprinting speed (**Figure 12-2: 6**). The 40-yard dash assessment is considered an advanced assessment for speed and performance-specific goals and, as such, may not be suitable for all clients.
 
 ## Key Terms
 

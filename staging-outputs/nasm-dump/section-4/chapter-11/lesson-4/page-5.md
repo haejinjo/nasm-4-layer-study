@@ -13,11 +13,11 @@ objectives:
 ## Content
 ### ADDITIONAL CIRCUMFERENCE MEASURES
 
-Circumference measurements can be measured at almost any body segment, although standardized sites exist as described in **Table 11-5**. Some of these measurements can also be used to quantify body composition (i.e., percentage of body fat), even with significantly overweight clients, but they unfortunately correlate poorly with true body composition measurements (Porcari et. al., 2015). They are better used to assess girth changes in the body over time, rather than body fat percentage, and offer the convenience of being inexpensive and easy to administer.
+Circumference measurements can be measured at almost any body segment, although standardized sites exist as described in **Table 11: -5**. Some of these measurements can also be used to quantify body composition (i.e., percentage of body fat), even with significantly overweight clients, but they unfortunately correlate poorly with true body composition measurements (Porcari et. al., 2015). They are better used to assess girth changes in the body over time, rather than body fat percentage, and offer the convenience of being inexpensive and easy to administer.
 
 Many clients might be keen to have their body composition measured, but accurate assessments of body composition are not always easy to obtain. Measuring circumference can become a good alternative, because measurements taken at various locations can provide valuable feedback to clients on their bodily transformation while they work toward achieving their fitness goals.
 
-**TABLE 11-5 Circumference Measurement Sites**
+**TABLE 11-5: Circumference Measurement Sites**
 
 | Site | Description of Location | Image |
 |---|---|---|

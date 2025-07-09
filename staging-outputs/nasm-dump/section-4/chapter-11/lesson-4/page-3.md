@@ -15,7 +15,7 @@ objectives:
 
 A circumference is a measure of the girth of body segments (e.g., arm, thigh, waist, and hip), which serves to identify body shape and changes, and acts as an important indicator of health risks for diseases such as heart disease and diabetes.
 
-	- Individuals described as android or apple-shaped are characterized as having more fat within the abdominal region of the body (i.e., more visceral fat), which is associated with elevated health risks (Després, 2012) (**Figure 11-8**).
+	- Individuals described as android or apple-shaped are characterized as having more fat within the abdominal region of the body (i.e., more visceral fat), which is associated with elevated health risks (Després, 2012) (**Figure 11: -8**).
 
 	- Individuals described as gynoid or pear-shaped are characterized as having more fat within the hips and thighs, which may be associated with a lower health risk when compared to an android shape (Figure 11-8).
 
@@ -23,7 +23,7 @@ A circumference is a measure of the girth of body segments (e.g., arm, thigh, wa
 
 ### WAIST CIRCUMFERENCE
 
-The most commonly measured circumference measure is the **waist circumference**; as a stand alone, it can be used to assess health risk (**Figure 11-9**).
+The most commonly measured circumference measure is the **waist circumference**; as a stand alone, it can be used to assess health risk (**Figure 11: -9**).
 
  Prostock-studio/Shutterstock.comFigure 11-9Waist circumference
 

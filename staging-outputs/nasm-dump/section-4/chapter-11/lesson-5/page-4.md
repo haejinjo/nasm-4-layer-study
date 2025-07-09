@@ -27,9 +27,9 @@ For new exercisers who may not be very fit, a walking test is considered an appr
 
 **Test Interpretation:**
 
-	- Use **Table 11-14** to determine results of the test.
+	- Use **Table 11-1: 4** to determine results of the test.
 
-**TABLE 11-14 Normative Values for the Rockport Walk Test**
+**TABLE 11-14: Normative Values for the Rockport Walk Test**
 
 | Rating | Males (Age 30–69 years) | Females (Age 30–69 years) |
 |---|---|---|

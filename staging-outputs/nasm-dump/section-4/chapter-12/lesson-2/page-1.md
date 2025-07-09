@@ -29,7 +29,7 @@ The kinetic chain checkpoints refer to major joint regions of the body, includin
 
 	- Head and neck
 
-**Anterior View** (**Figure 12-2**)
+**Anterior View** (**Figure 12: -2**)
 
 	- Feet/ankles: Straight and parallel; not flattened or externally rotated
 
@@ -45,7 +45,7 @@ Note: An imaginary line should begin between the feet, extending upward between 
 
 **Figure 12-2Kinetic Chain Checkpoint Anterior View
 
-**Lateral View** (**Figure 12-3**)
+**Lateral View** (**Figure 12: -3**)
 
 	- Feet/ankles: Leg vertical at right angle to sole of foot
 

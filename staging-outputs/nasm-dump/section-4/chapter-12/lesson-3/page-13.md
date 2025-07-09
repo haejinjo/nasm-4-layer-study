@@ -11,7 +11,7 @@ objectives:
 ---
 
 ## Content
-**TABLE 12-11 Pulling Assessment Solutions Chart**
+**TABLE 12-11: Pulling Assessment Solutions Chart**
 
 | Joint | Viewpoint | Movement Impairment | Possible Muscle Imbalances | Visual Cues |
 |---|---|---|---|---|

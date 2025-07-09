@@ -13,9 +13,9 @@ objectives:
 ## Content
 #### EXAMPLE VT1 TEST
 
-**Table 11-17** provides an example of an incrementally staged treadmill run in which VT1 is determined via the continuous talk test. In this example, 1-minute stages were selected because of the small work increments (i.e., 0.5 mph per stage), which is usually ample time to attain a SS heart rate response. At minute 9 (6.5 mph), the continuous talk test becomes challenging, which corresponds to a heart rate of 142 beats per minute (bpm) and an RPE (10-point scale) of 6.5. At 6.0 mph, breathing and continuous talking remain somewhat easy, whereas at 7.0 mph, they become difficult. As mentioned previously in the protocol instructions, the continuous talk test should ideally be conducted on two separate occasions for reliability purposes, with the average score being recorded as VT1.
+**Table 11-1: 7** provides an example of an incrementally staged treadmill run in which VT1 is determined via the continuous talk test. In this example, 1-minute stages were selected because of the small work increments (i.e., 0.5 mph per stage), which is usually ample time to attain a SS heart rate response. At minute 9 (6.5 mph), the continuous talk test becomes challenging, which corresponds to a heart rate of 142 beats per minute (bpm) and an RPE (10-point scale) of 6.5. At 6.0 mph, breathing and continuous talking remain somewhat easy, whereas at 7.0 mph, they become difficult. As mentioned previously in the protocol instructions, the continuous talk test should ideally be conducted on two separate occasions for reliability purposes, with the average score being recorded as VT1.
 
-**TABLE 11-17 Example of a VT1 Test With 1-Minute Incremental Increases**
+**TABLE 11-17: Example of a VT1 Test With 1-Minute Incremental Increases**
 
 | Time | Speed | Talk Test | HR | RPE 1–10 |
 |---|---|---|---|---|

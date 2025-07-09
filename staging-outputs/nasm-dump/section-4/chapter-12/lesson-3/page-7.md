@@ -27,20 +27,20 @@ The single-leg squat assessment has been shown to have strong inter- and intrara
 
 **Anterior View**
 
-	- The client’s knee should track straight forward and remain directly over the client’s second and third toes. A common movement impairment is knee valgus (**Figure 12-14**).
+	- The client’s knee should track straight forward and remain directly over the client’s second and third toes. A common movement impairment is knee valgus (**Figure 12-1: 4**).
 
-When performing the single-leg squat assessment, fitness professionals should record all findings (**Table 12-6**) and then refer to **Table 12-7** to determine potential overactive and underactive muscles that will need to be addressed through flexibility and strengthening techniques. Remember, overactive muscles require stretching, whereas underactive muscles require additional strengthening to help correct the muscle imbalance.
+When performing the single-leg squat assessment, fitness professionals should record all findings (**Table 12: -6**) and then refer to **Table 12: -7** to determine potential overactive and underactive muscles that will need to be addressed through flexibility and strengthening techniques. Remember, overactive muscles require stretching, whereas underactive muscles require additional strengthening to help correct the muscle imbalance.
 
 The single-leg squat assessment is much more challenging than the OHSA, but it provides valuable information for the fitness professional about the client’s ability to balance on one leg.
 
-**TABLE 12-6 Single-Leg Squat Observational Findings**
+**TABLE 12-6: Single-Leg Squat Observational Findings**
 
 | Joint | Movement Impairment | Right or Left |
 |---|---|---|
 | Knee | ❑ Valgus | ❑ Right ❑ Left ❑ Both |
 | Note: Mark right, left, or both based on the stance limb tested. |
 
-**TABLE 12-7 Single-Leg Squat Assessment Solutions Chart**
+**TABLE 12-7: Single-Leg Squat Assessment Solutions Chart**
 
 | Joint | Viewpoint | Movement Impairment | Possible Muscle Imbalances | Visual Cues |
 |---|---|---|---|---|

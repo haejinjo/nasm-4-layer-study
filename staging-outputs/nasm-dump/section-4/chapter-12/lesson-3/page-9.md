@@ -21,7 +21,7 @@ objectives:
 
 **Lateral View**
 
-	- View the LPHC, shoulders, cervical spine, and head from the side. The lumbar and cervical spine should remain neutral while the shoulders stay level. Common movement impairments that may be observed include low-back arches (**Figure 12-17**), shoulder elevation (**Figure 12-18**), and head jutting forward (**Figure 12-19**).
+	- View the LPHC, shoulders, cervical spine, and head from the side. The lumbar and cervical spine should remain neutral while the shoulders stay level. Common movement impairments that may be observed include low-back arches (**Figure 12-1: 7**), shoulder elevation (**Figure 12-1: 8**), and head jutting forward (**Figure 12-1: 9**).
 
 ## Images
 

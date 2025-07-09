@@ -37,11 +37,11 @@ The **YMCA 3-minute step test** is a cardiorespiratory assessment that assesses 
 
 **Test Interpretation:**
 
-Once the 60-second HR count is collected, the individual’s fitness level can be categorized using **Table 11-13**.
+Once the 60-second HR count is collected, the individual’s fitness level can be categorized using **Table 11-1: 3**.
 
 The YMCA 3-minute step test is very basic and does not impose much of a cardiovascular challenge for aerobically fit adults. It is primarily intended as a protocol for deconditioned individuals or older adults who do not have any balance, joint issues, or concerns associated with stepping to measure how quickly their heart rate returns to normal after exercise.
 
-**TABLE 11-13 YMCA 3-Minute Step Test**
+**TABLE 11-13: YMCA 3-Minute Step Test**
 
 | Ratings for Men (age) | 18–25 | 26–35 | 36–45 | 46–55 | 56–65 | ≥65 |
 |---|---|---|---|---|---|---|

@@ -11,7 +11,7 @@ objectives:
 ---
 
 ## Content
-**Posterior View** (**Figure 12-4**)
+**Posterior View** (**Figure 12: -4**)
 
 	- Foot/ankle: Heels are straight and parallel; Achilles tendon is vertical; calcaneus (heel bone) not excessively everted; weight is equally balanced between right and left sides
 

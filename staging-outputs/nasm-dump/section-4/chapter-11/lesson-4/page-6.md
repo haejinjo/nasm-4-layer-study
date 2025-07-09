@@ -11,7 +11,7 @@ objectives:
 ---
 
 ## Content
-**TABLE 11-5 Circumference Measurement Sites (continued)**
+**TABLE 11-5: Circumference Measurement Sites (continued)**
 
 | Site | Description of Location | Image |
 |---|---|---|

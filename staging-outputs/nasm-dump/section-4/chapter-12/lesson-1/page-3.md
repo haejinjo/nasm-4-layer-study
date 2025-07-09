@@ -19,7 +19,7 @@ When the Certified Personal Trainer works with a client for the first time, it i
 
 ## Muscle Imbalances
 
-Muscle imbalances are alterations in the lengths of muscles surrounding a joint (**Figure 12-1**) in which some are **overactive **(forcing compensation to occur) and others may be **underactive **(allowing for the compensation to occur; Page et al., 2010; Sueki et al., 2013). In other words, muscle imbalance is a condition in which there is a lack of balance between muscles surrounding a joint (Mersmann et al., 2017). Muscle imbalance can be caused by a variety of mechanisms, including (but not limited to) repetitive movement, sedentary lifestyle, and trauma.
+Muscle imbalances are alterations in the lengths of muscles surrounding a joint (**Figure 12: -1**) in which some are **overactive **(forcing compensation to occur) and others may be **underactive **(allowing for the compensation to occur; Page et al., 2010; Sueki et al., 2013). In other words, muscle imbalance is a condition in which there is a lack of balance between muscles surrounding a joint (Mersmann et al., 2017). Muscle imbalance can be caused by a variety of mechanisms, including (but not limited to) repetitive movement, sedentary lifestyle, and trauma.
 
 ### GETTING TECHNICAL
 

@@ -11,7 +11,7 @@ objectives:
 ---
 
 ## Content
-After the four sites have been measured, add the totals of the four sites and then find the appropriate sex and age categories for the body composition on the Durnin–Womersley body fat percentage calculation (**Table 11-10**). For example, a 40-year-old female client with the sum of the SKFs of 40 has a percent body fat of 28.14%, which can be rounded down to 28%.
+After the four sites have been measured, add the totals of the four sites and then find the appropriate sex and age categories for the body composition on the Durnin–Womersley body fat percentage calculation (**Table 11-1: 0**). For example, a 40-year-old female client with the sum of the SKFs of 40 has a percent body fat of 28.14%, which can be rounded down to 28%.
 
 **Table 11-10Durnin–Womersley body fat percentage calculation
 

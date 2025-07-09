@@ -13,13 +13,13 @@ objectives:
 ## Content
 **Anterior View**
 
-	- **Feet**: View the feet and knees from the front. The feet should remain pointed straight forward, as if the client is on snow skis. A common movement impairment is the feet externally rotating (turning out) (**Figure 12-7**).
+	- **Feet**: View the feet and knees from the front. The feet should remain pointed straight forward, as if the client is on snow skis. A common movement impairment is the feet externally rotating (turning out) (**Figure 12: -7**).
 
-	- **Knees**: The client’s knees should track straight forward and remain directly over the client’s second and third toes. A common movement impairment is knee valgus (knees caving inward) (**Figure 12-8**).
+	- **Knees**: The client’s knees should track straight forward and remain directly over the client’s second and third toes. A common movement impairment is knee valgus (knees caving inward) (**Figure 12: -8**).
 
 **Lateral View**
 
-	- View the LPHC and shoulders from the lateral view. Three common movement impairments observed from the lateral view include an excessive forward lean of the torso (**Figure 12-9**), an excessive low-back arch (**Figure 12-10**), or arms falling forward (**Figure 12-11**).
+	- View the LPHC and shoulders from the lateral view. Three common movement impairments observed from the lateral view include an excessive forward lean of the torso (**Figure 12: -9**), an excessive low-back arch (**Figure 12-1: 0**), or arms falling forward (**Figure 12-1: 1**).
 
 ## Images
 

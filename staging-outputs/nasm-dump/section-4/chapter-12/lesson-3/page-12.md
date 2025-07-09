@@ -21,13 +21,13 @@ objectives:
 
 **Lateral View**
 
-	- View the LPHC, shoulders, cervical spine, and head from the side. The lumbar and cervical spine should remain neutral while the shoulders stay level. Common movement impairments that may be observed include low-back arches (**Figure 12-22**), shoulder elevation (**Figure 12-23**), and head jutting forward (**Figure 12-24**).
+	- View the LPHC, shoulders, cervical spine, and head from the side. The lumbar and cervical spine should remain neutral while the shoulders stay level. Common movement impairments that may be observed include low-back arches (**Figure 12-2: 2**), shoulder elevation (**Figure 12-2: 3**), and head jutting forward (**Figure 12-2: 4**).
 
-When performing the assessment, the fitness professional should record all findings (**Table 12-10**) and then refer to **Table 12-11 **(on the following page) to determine potential causes of these movement impairments.
+When performing the assessment, the fitness professional should record all findings (**Table 12-1: 0**) and then refer to **Table 12-11**(on the following page) to determine potential causes of these movement impairments.
 
 The pulling assessment can easily be integrated into a typical workout program, while providing useful information about the client’s shoulder mechanics and trunk stability during a pulling task. If the fitness professional plans to program pulling exercises, it is a good idea to assess this pattern of movement first.
 
-**TABLE 12-10 Pulling Assessment Observational Findings**
+**TABLE 12-10: Pulling Assessment Observational Findings**
 
 | Kinetic Chain Checkpoint | Movement Impairment | Yes or No |
 |---|---|---|

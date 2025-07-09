@@ -11,9 +11,9 @@ objectives:
 ---
 
 ## Content
-When performing the OHSA, record all findings (**Table 12-4**) and then refer to **Table 12-5 **(on the following page) to determine potential overactive and underactive muscles that will need to be addressed through flexibility and strengthening techniques. Overactive muscles require stretching, whereas underactive muscles require additional strengthening to help correct the muscle imbalance.
+When performing the OHSA, record all findings (**Table 12: -4**) and then refer to **Table 12-5**(on the following page) to determine potential overactive and underactive muscles that will need to be addressed through flexibility and strengthening techniques. Overactive muscles require stretching, whereas underactive muscles require additional strengthening to help correct the muscle imbalance.
 
-**TABLE 12-4 OHSA Observational Findings Sheet**
+**TABLE 12-4: OHSA Observational Findings Sheet**
 
 | View | Kinetic Chain Checkpoint | Movement Impairment | Result |
 |---|---|---|---|

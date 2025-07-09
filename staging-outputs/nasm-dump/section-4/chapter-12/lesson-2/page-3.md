@@ -13,13 +13,13 @@ objectives:
 ## Content
 The three postural distortion patterns to be assessed during a static postural assessment include the pes planus distortion syndrome (developed by NASM) and the lower and upper crossed syndromes described by Janda.
 
-	- **Pes planus distortion syndrome**: Characterized by flat feet, knee valgus, and adducted and internally rotated hips (**Table 12-1**)
+	- **Pes planus distortion syndrome**: Characterized by flat feet, knee valgus, and adducted and internally rotated hips (**Table 12: -1**)
 
-	- **Lower crossed syndrome**: Characterized by an anterior pelvic tilt and excessive **lordosis** (extension) of the lumbar spine (**Table 12-2**)
+	- **Lower crossed syndrome**: Characterized by an anterior pelvic tilt and excessive **lordosis** (extension) of the lumbar spine (**Table 12: -2**)
 
-	- **Upper crossed syndrome**: Characterized by a forward head and protracted (rounded) shoulders (**Table 12-3**)
+	- **Upper crossed syndrome**: Characterized by a forward head and protracted (rounded) shoulders (**Table 12: -3**)
 
-**TABLE 12-1 Pes Planus Distortion Syndrome**
+**TABLE 12-1: Pes Planus Distortion Syndrome**
 
 |  | Static Positions
 Ankle joints—pes planus (collapsed arch)
@@ -42,7 +42,7 @@ Potential underactive muscles
 	Gluteus maximus and medius (butt muscles) |
 |---|---|
 
-**TABLE 12-2 Lower Crossed Syndrome**
+**TABLE 12-2: Lower Crossed Syndrome**
 
 |  | Static Positions
 Hip joints—flexed
@@ -65,7 +65,7 @@ Potential underactive muscles
 	Abdominals |
 |---|---|
 
-**TABLE 12-3 Upper Crossed Syndrome**
+**TABLE 12-3: Upper Crossed Syndrome**
 
 |  | Static Positions
 

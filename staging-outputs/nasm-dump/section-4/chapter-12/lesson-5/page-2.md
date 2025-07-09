@@ -27,7 +27,7 @@ Lastly, when working with an athletic population, it may be appropriate to imple
 
 #### SEQUENCING ALL ASSESSMENTS
 
-It is important for all assessments to be sequenced in a specific order to help guarantee accurate results (**Figure 12-28**). For example, the fitness professional should always begin the assessments process with a preparticipation health screening (PAR-Q+, health history questionnaire), physiological (resting heart rate and blood pressure), and body composition (BMI, circumference, body fat percentage) assessments prior to performing assessments that require physical exertion (see Chapter 11). Physical exertion can skew the results of these assessments.
+It is important for all assessments to be sequenced in a specific order to help guarantee accurate results (**Figure 12-2: 8**). For example, the fitness professional should always begin the assessments process with a preparticipation health screening (PAR-Q+, health history questionnaire), physiological (resting heart rate and blood pressure), and body composition (BMI, circumference, body fat percentage) assessments prior to performing assessments that require physical exertion (see Chapter 11). Physical exertion can skew the results of these assessments.
 
 **Figure 12-28Sequencing assessments
 

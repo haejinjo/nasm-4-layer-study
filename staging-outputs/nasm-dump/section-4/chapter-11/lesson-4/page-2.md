@@ -23,11 +23,11 @@ Calculate Mary’s BMI score using either formula if she currently weighs 160 lb
 
 Answer: BMI = 25.1
 
-The lowest risk for disease lies within a BMI range of 22 to 24.9 (**Table 11-2**). Scientific evidence indicates that the risk for disease increases with a BMI of 25 or greater. Even though research has shown the risk for premature death and illness does increase with a high BMI score, individuals who are underweight are also at risk (Flegal et al., 2013).
+The lowest risk for disease lies within a BMI range of 22 to 24.9 (**Table 11: -2**). Scientific evidence indicates that the risk for disease increases with a BMI of 25 or greater. Even though research has shown the risk for premature death and illness does increase with a high BMI score, individuals who are underweight are also at risk (Flegal et al., 2013).
 
 Because of its simplicity and measurement consistency, BMI is the most widely used measure to determine overweight and obesity levels. BMI is a useful tool to screen the general population, but its one weakness is that it fails to differentiate fat mass from lean body mass. Using BMI, athletes or bodybuilders with a large amount of muscle mass can mistakenly fall within the moderate- to high-risk categories.
 
-**TABLE 11-2 BMI Classification**
+**TABLE 11-2: BMI Classification**
 
 | BMI | Disease Risk | Classification |
 |---|---|---|
