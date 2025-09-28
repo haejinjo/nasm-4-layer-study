@@ -1,5 +1,17 @@
 # NASM CPT Logic Layer Analysis
-**Methodology**: Big-picture understanding with logic layer 1 of 4
+**L1 Methodology**: Big-picture understanding with logic layer 1 of 4
+ 
+**L2 Methodology**:
+Goal: Break the big themes into the main concepts and understand how and why they work. This is where most learning time goes.
+Time: 60–70 % of total study time.
+• For each keyword cluster from Layer 1, identify the key concepts it contains.
+• For every concept, ask “How does this work?” and “Why is this important?” 
+• Draw simple diagrams or concept maps to show relationships between concepts.
+Required Checkpoint Before Layer 3
+• You can explain each concept clearly and connect it to other concepts.
+• You can answer typical exam or application questions using these concepts.
+• You see how the concepts support the overall themes identified in Layer 1.
+
 
 ---
 
@@ -16,9 +28,9 @@ Understanding these health trends helps fitness professionals see the bigger pic
 
 ### Logic Layer Clusters
 1. **Professional Foundation & Scope** - Evidence-based practice, Kinesiology, Fitness professional role, Scope of practice
-2. **Health Problems & Disease** - Obesity, Overweight, Chronic diseases (diabetes, cancer, COPD), Heart conditions, Stroke, Morbidity, Mortality
+2. **Health Problems & Disease** - Obesity, Overweight, Chronic diseases (Type 2 Diabetes and Type 2 Diabetes, cancer, COPD), Heart conditions, Stroke, Morbidity, Mortality
 3. **Physical Function & Dysfunction** - Deconditioned, Muscle imbalance, Joint stability, Musculoskeletal system, Injuries (ACL, MCL, tendonitis)
-4. **Physiological Processes** - Homeostasis, Blood pressure, Glucose, Insulin resistance, Endorphins, Physical activity
+4. **Physiological Processes** - Homeostasis, Blood pressure** (very important), Glucose, Insulin resistance, Endorphins, LDL Cholesterol, HDL Cholesterol
 
 ### How the clusters relate (fast map)
 Professional Foundation identifies Health Problems in society and provides a solution framework → understands how Physical Dysfunction develops → uses knowledge of Physiological Processes to design interventions. 
@@ -48,10 +60,10 @@ Being a personal trainer is both a health profession and a business. Trainers ne
 Even the most knowledgeable trainer won't succeed without business and people skills. This chapter teaches the practical side of turning fitness expertise into a sustainable career that actually helps people achieve their goals.
 
 ### Logic Layer Clusters
-1. **Business Operations** - Operational costs, Forecasting, Brand, SWOT analysis
+1. **Business Operations** - Operational costs, Forecasting, Brand, Continuing Education**, 4 Ps of marketing**, SWOT analysis
 2. **Client Acquisition & Sales** - Prospect, Sales process, Working the floor, USP
 3. **Client Relationships** - Rapport, Open-ended questions, Adherence
-4. **Training Methods & Services** - HIIT, Training programs
+4. **Training Methods & Services** - HIIT, Training programs, 
 
 ### How the clusters relate (fast map)
 Business Operations provide the foundation → Client Acquisition brings people in → Client Relationships keep them engaged → Training Methods deliver results. The cycle: Good business practices attract clients, strong relationships retain them, effective training produces results that generate referrals.
@@ -79,7 +91,7 @@ People's minds and emotions heavily influence whether they'll exercise and stick
 Most people know exercise is good for them, but still don't do it consistently. Understanding the psychology behind behavior change gives trainers tools to help clients break through mental barriers and create lasting healthy habits.
 
 ### Logic Layer Clusters
-1. **Motivation Types & Sources** - Intrinsic motivation, Extrinsic motivation, Amotivation, Self-determination theory
+1. **Motivation Types & Sources** - Intrinsic motivation (examples of these for exercise**), Extrinsic motivation (examples of these for exercise**), Amotivation, Self-determination theory
 2. **Behavioral Change Process** - Transtheoretical model, Behavioral change theories, Self-regulation, Cognitive dissonance
 3. **Personal Factors** - Self-efficacy, Autonomy, Psychology, Socioeconomic status
 4. **Program Success** - Adherence, Long-term behavior change
@@ -89,6 +101,8 @@ Personal Factors influence → Motivation Types which drive → Behavioral Chang
 
 ### Key questions this chapter answers
 - What's the difference between intrinsic and extrinsic motivation?
+- What are 2 examples each of intrinsic vs extrinsic motivation for exercise?
+- What is an example of an outcome goal and a process goal? How do these relate? 
 - Why do people go through stages when changing behavior?
 - How do personal factors like self-efficacy affect exercise adherence?
 - What psychological barriers prevent people from exercising consistently?
