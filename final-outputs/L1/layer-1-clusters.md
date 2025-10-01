@@ -30,7 +30,7 @@ Understanding these health trends helps fitness professionals see the bigger pic
 1. **Professional Foundation & Scope** - Evidence-based practice, Kinesiology, Fitness professional role, Scope of practice
 2. **Health Problems & Disease** - Obesity, Overweight, Chronic diseases (Type 2 Diabetes and Type 2 Diabetes, cancer, COPD), Heart conditions, Stroke, Morbidity, Mortality
 3. **Physical Function & Dysfunction** - Deconditioned, Muscle imbalance, Joint stability, Musculoskeletal system, Injuries (ACL, MCL, tendonitis)
-4. **Physiological Processes** - Homeostasis, Blood pressure** (very important), Glucose, Insulin resistance, Endorphins, LDL Cholesterol, HDL Cholesterol
+4. **Physiological Processes** - Homeostasis, Blood pressure** (very important), Glucose, Insulin resistance, Endorphins, Cholesterol (LDL ,HDL)
 
 ### How the clusters relate (fast map)
 Professional Foundation identifies Health Problems in society and provides a solution framework → understands how Physical Dysfunction develops → uses knowledge of Physiological Processes to design interventions. 
@@ -42,12 +42,14 @@ The cycle: Poor health creates dysfunction, dysfunction affects physiology, prof
 - What are the major health challenges facing modern society?
 - How does physical inactivity lead to health problems and injuries?
 - What role does evidence-based practice play in fitness?
+- What is the scope of practice for a fitness professional? 
 
 ### Minimal study prompts (self-check)
 - Can you explain to a friend why personal trainers are important for public health?
 - What are 3 major chronic diseases linked to inactivity?
 - What happens to muscles and joints when someone is deconditioned?
 - How do you distinguish evidence-based practice from fitness fads?
+- What is the difference between LDL and HDL Cholesterol and why does this matter?
 
 ---
 

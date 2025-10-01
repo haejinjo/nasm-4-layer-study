@@ -7,10 +7,7 @@
 ### Chapter 1: The Modern State of Health and Fitness
 
 Upon completion of this chapter, the fitness professional will be able to:
-- **Distinguish** a fitness professional's role within the allied health industry.
-- **Identify** the most prevalent chronic health conditions affecting modern society.
-- **Differentiate** evidence-based practice from fitness fads and myths.
-- **Define** a Certified Personal Trainer's scope of practice.
+                     bb                                                                              
 
 #### Lesson 1: Welcome to NASM
 
@@ -22,6 +19,7 @@ Upon completion of this chapter, the fitness professional will be able to:
 - **Musculoskeletal system**: The combined, interworking system of all muscles and bones in the body.
 - **Obesity**: A complex disease involving an excessive amount of body fat; classified by a body mass index of 30 or greater.
 - **Overweight**: A body weight greater than what is considered within normal standards; a body mass index of 25.0 to 29.9.
+- **Body Mass Index (BMI)**: The measurement of a person’s weight relative to his or her height, which is used to estimate the risks of obesity.
 
 #### Lesson 2: The Global State of Health
 
